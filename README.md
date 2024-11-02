@@ -1,7 +1,7 @@
 <h1>IoT Based Smart Gardening System</h1>
 
 
-<img src="https://imgur.com/a/SDxjZXD" alt="Smart Garden Prototype" width="400" height="300">
+<img width="254" alt="prototype" src="https://github.com/user-attachments/assets/abe7f879-1b2c-442d-9cb8-1caf547b7e64">
  
 
 <h2>Description</h2>
