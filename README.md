@@ -1,7 +1,7 @@
 <h1>IoT Based Smart Gardening System</h1>
 
 
-<img src="C:\Users\fella\Téléchargements\prototype.png" alt="Smart Garden Prototype" width="400" height="300">
+<img src="https://imgur.com/a/SDxjZXD" alt="Smart Garden Prototype" width="400" height="300">
  
 
 <h2>Description</h2>
