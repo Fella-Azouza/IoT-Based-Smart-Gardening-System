@@ -23,8 +23,9 @@ The "IoT-Based Smart Gardening System" project is designed to facilitate automat
 -<b> Water pump</b>
 -<b> Buzzer</b>
 
-<img alt="image2" src="https://github.com/user-attachments/assets/b4965647-433f-4932-825f-38601f4326c6">
+<img width="101" alt="image2" src="https://github.com/user-attachments/assets/b4965647-433f-4932-825f-38601f4326c6">
 <img width="99" alt="image1" src="https://github.com/user-attachments/assets/a6e122dd-7333-4821-8ad1-e87e6fa870ff">
+
 
 
 
